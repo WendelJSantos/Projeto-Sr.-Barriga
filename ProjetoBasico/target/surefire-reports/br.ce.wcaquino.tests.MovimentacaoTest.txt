@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: br.ce.wcaquino.tests.MovimentacaoTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 204.07 sec <<< FAILURE! - in br.ce.wcaquino.tests.MovimentacaoTest
+test3_InserirMovimentacaoFutura(br.ce.wcaquino.tests.MovimentacaoTest)  Time elapsed: 72.74 sec  <<< FAILURE!
+java.lang.AssertionError: null
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at br.ce.wcaquino.tests.MovimentacaoTest.test3_InserirMovimentacaoFutura(MovimentacaoTest.java:72)
+
